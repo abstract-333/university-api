@@ -1,0 +1,11 @@
+.idea
+.mypy_cache
+.pytest_cache
+.vscode
+__pycache__
+*.pyc
+*.sql
+.env.local
+.env.test
+src/settings/.env.prod
+.vscode
