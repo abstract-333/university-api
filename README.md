@@ -1,8 +1,10 @@
 # Project for university
+
 Rest API project for university, that emluate university system):
 <br/>
 
 ## Running on:
+
 * Windows 11
 
 * Python 3.11.4 or higher
@@ -17,6 +19,14 @@ Rest API project for university, that emluate university system):
 
 ```shell
 $ git clone https://gitflic.ru/project/abstract-333/university-api.git
+
+$ cd university-api
+```
+
+#### Using GitHub:
+
+```shell
+$ git clone https://github.com/abstract-333/university-api.git
 
 $ cd university-api
 ```
@@ -52,14 +62,15 @@ $ alembic upgrade heads
 ### Run App:
 
 * #### Using Make:
+
 ```shell
 $ make run
 ```
 
 * #### Without Make:
+
 ```shell
 $ uvicorn --factory src.app:app --reload
 ```
 
-
-## How to run
+s
