@@ -86,8 +86,7 @@ This system include wide range of features such as:
   messaging.
 * **Assessments and Exams**: Offering tools for designing tests and evaluating student performance.
 * **Data Analysis**: Utilizing data to analyze student performance and improve the educational process.
-* **Personalization of the Learning Experience**: The ability to customize content and resources based on **_students'_
-  **
+* **Personalization of the Learning Experience**: The ability to customize content and resources based on _students'_
   needs.
 
 ### Use Case Diagram:
